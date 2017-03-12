@@ -5,6 +5,9 @@ Table of contents:
 * [Asset Manager](#asset-manager)
 * [Storage](#storage)
 * [Directive](#directive)
+* [View](#view)
+- [Performance](#performance)
+    - [Lazy Load](#lazy-load)
 
 
 ## Routing
@@ -22,3 +25,18 @@ Table of contents:
 * [angular-ui/bootstrap](https://github.com/angular-ui/bootstrap) - Native AngularJS directives for Bootstrap. Small footprint (5kB gzipped!), no 3rd party JS dependencies (jQuery, bootstrap JS) required!
 * [Foxandxss/angular-toastr](https://github.com/Foxandxss/angular-toastr) - Angular port of CodeSeven/toastr.
 * [urish/angular-moment](https://github.com/urish/angular-moment) - AngularJS directive and filters for [Moment.js](https://momentjs.com/).
+
+
+## View
+* [angular-ui/bootstrap](https://github.com/angular-ui/bootstrap) - Native AngularJS (Angular) directives for Bootstrap. Smaller footprint (20kB gzipped), no 3rd party JS dependencies (jQuery, bootstrap JS) required. 
+
+# Performance
+
+*Reduce amount of time the user has to wait in order to interact with the app*
+
+ - [@angularclass/idle-preload](https://github.com/AngularClass/angular2-idle-preload) - Angular 2 Idle Preload for preloading async routes via @AngularClass.
+
+###### Lazy Load
+
+ - [ng2-lazyload-image](https://github.com/tjoskar/ng2-lazyload-image) - Lazy image loader for Angular 2.
+ - [ng2-image-lazy-load](https://github.com/NathanWalker/ng2-image-lazy-load) - Angular2 image lazy loader library.
