@@ -18,3 +18,7 @@ Table of contents:
 
 ## Directive
 * [sroze/ngInfiniteScroll](https://github.com/sroze/ngInfiniteScroll/) - Infinite Scrolling for AngularJS.
+* [angular-ui/ui-tinymce](https://github.com/angular-ui/ui-tinymce) - AngularUI wrapper for TinyMCE.
+* [angular-ui/bootstrap](https://github.com/angular-ui/bootstrap) - Native AngularJS directives for Bootstrap. Small footprint (5kB gzipped!), no 3rd party JS dependencies (jQuery, bootstrap JS) required!
+* [Foxandxss/angular-toastr](https://github.com/Foxandxss/angular-toastr) - Angular port of CodeSeven/toastr.
+* [urish/angular-moment](https://github.com/urish/angular-moment) - AngularJS directive and filters for [Moment.js](https://momentjs.com/).
