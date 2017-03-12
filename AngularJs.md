@@ -30,13 +30,7 @@ Table of contents:
 ## View
 * [angular-ui/bootstrap](https://github.com/angular-ui/bootstrap) - Native AngularJS (Angular) directives for Bootstrap. Smaller footprint (20kB gzipped), no 3rd party JS dependencies (jQuery, bootstrap JS) required. 
 
-# Performance
-
-*Reduce amount of time the user has to wait in order to interact with the app*
-
- - [@angularclass/idle-preload](https://github.com/AngularClass/angular2-idle-preload) - Angular 2 Idle Preload for preloading async routes via @AngularClass.
+## Performance
 
 ###### Lazy Load
-
- - [ng2-lazyload-image](https://github.com/tjoskar/ng2-lazyload-image) - Lazy image loader for Angular 2.
- - [ng2-image-lazy-load](https://github.com/NathanWalker/ng2-image-lazy-load) - Angular2 image lazy loader library.
+ - [ocombe/ocLazyLoad](https://github.com/ocombe/ocLazyLoad) - Lazy load modules & components in AngularJS.
