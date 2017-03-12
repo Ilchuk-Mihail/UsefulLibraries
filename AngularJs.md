@@ -11,7 +11,6 @@ Table of contents:
 * [Asset Manager](#asset-manager)
 * [Storage](#storage)
 * [Directive](#directive)
-* [View](#view)
 - [Performance](#performance)
     - [Lazy Load](#lazy-load)
 
@@ -35,7 +34,7 @@ Table of contents:
 
 *Time Picker / Datetime Picker*
 
-* [angular-ui/bootstrap](https://github.com/angular-ui/bootstrap) - Native AngularJS (Angular) directives for Bootstrap. Smaller footprint (20kB gzipped), no 3rd party JS dependencies (jQuery, bootstrap JS) required. 
+* [angular-ui/bootstrap](https://github.com/angular-ui/bootstrap) - Native AngularJS (Angular) directives for Bootstrap. Smaller footprint (20kB gzipped), no 3rd party JS dependencies (jQuery, bootstrap JS) required. [Demo](https://angular-ui.github.io/bootstrap/#!#datepicker) 
 
 ## Routing
 * [angular-ui/ui-router](https://github.com/angular-ui/ui-router) - The de-facto solution to flexible routing with nested views in AngularJS.
@@ -50,11 +49,6 @@ Table of contents:
 
 * [angular-ui/ui-tinymce](https://github.com/angular-ui/ui-tinymce) - AngularUI wrapper for TinyMCE.
 * [angular-ui/bootstrap](https://github.com/angular-ui/bootstrap) - Native AngularJS directives for Bootstrap. Small footprint (5kB gzipped!), no 3rd party JS dependencies (jQuery, bootstrap JS) required!
-
-
-
-## View
-* [angular-ui/bootstrap](https://github.com/angular-ui/bootstrap) - Native AngularJS (Angular) directives for Bootstrap. Smaller footprint (20kB gzipped), no 3rd party JS dependencies (jQuery, bootstrap JS) required. 
 
 ## Performance
 
