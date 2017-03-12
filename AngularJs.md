@@ -5,8 +5,7 @@ Table of contents:
     - [Notification](#notification)
     - [Infinite Scroll](#infinite-scroll)
     - [Time](#time)
-    - [Form](#form)
-          - [Date Picker](#date-picker)
+    - [Date Picker](#date-picker)
 * [Routing](#routing)
 * [Asset Manager](#asset-manager)
 * [Storage](#storage)
@@ -25,10 +24,6 @@ Table of contents:
 
 ###### Time
 * [urish/angular-moment](https://github.com/urish/angular-moment) - AngularJS directive and filters for [Moment.js](https://momentjs.com/).
-
-### Form
-
-*Let the user create & edit data*
 
 ###### Date Picker
 
