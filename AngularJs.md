@@ -1,5 +1,5 @@
-# usefulLibraries
-useful libraries for angular js / asp .net mvc
+# Useful libraries
+Useful libraries for ANGULAR JS
 
 Table of contents:
 * [Seed Projects](#seed-projects)
