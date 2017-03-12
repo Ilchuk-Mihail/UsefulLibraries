@@ -5,6 +5,8 @@ Table of contents:
     - [Notification](#notification)
     - [Infinite Scroll](#infinite-scroll)
     - [Time](#time)
+    - [Form](#form)
+          - [Date Picker](#date-picker)
 * [Routing](#routing)
 * [Asset Manager](#asset-manager)
 * [Storage](#storage)
@@ -24,6 +26,16 @@ Table of contents:
 
 ###### Time
 * [urish/angular-moment](https://github.com/urish/angular-moment) - AngularJS directive and filters for [Moment.js](https://momentjs.com/).
+
+### Form
+
+*Let the user create & edit data*
+
+###### Date Picker
+
+*Time Picker / Datetime Picker*
+
+* [angular-ui/bootstrap](https://github.com/angular-ui/bootstrap) - Native AngularJS (Angular) directives for Bootstrap. Smaller footprint (20kB gzipped), no 3rd party JS dependencies (jQuery, bootstrap JS) required. 
 
 ## Routing
 * [angular-ui/ui-router](https://github.com/angular-ui/ui-router) - The de-facto solution to flexible routing with nested views in AngularJS.
