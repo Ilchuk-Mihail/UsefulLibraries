@@ -33,6 +33,7 @@ Table of contents:
 
 ###### Time
 * [urish/angular-moment](https://github.com/urish/angular-moment) - AngularJS directive and filters for [Moment.js](https://momentjs.com/).
+* [uttesh/ngtimeago](https://github.com/uttesh/ngtimeago) - Time ago angularjs plugin allow to show the time in human readable format....for example like few time ago,,,,,hours ago,,,,etc.
 
 ###### Date / Time Picker
 * [angular-ui/bootstrap](https://github.com/angular-ui/bootstrap) - Native AngularJS (Angular) directives for Bootstrap. Smaller footprint (20kB gzipped), no 3rd party JS dependencies (jQuery, bootstrap JS) required. [Demo](https://angular-ui.github.io/bootstrap/#!#datepicker) 
@@ -40,6 +41,7 @@ Table of contents:
 ###### Form Input
 * [angular-ui/ui-mask](https://github.com/angular-ui/ui-mask) - Mask on an input field so the user can only type pre-determined pattern.
 * [melloc01/angular-input-stars](https://github.com/melloc01/angular-input-stars) - Create rating inputs easily.
+* [myplanet/angular-auto-focus](https://github.com/myplanet/angular-auto-focus) - Bullet-proof auto-focusing for Angular.
 
 ###### File Upload
 * [danialfarid/ng-file-upload](https://github.com/danialfarid/ng-file-upload) - Lightweight Angular directive to upload files with optional FileAPI shim for cross browser support.
