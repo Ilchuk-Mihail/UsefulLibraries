@@ -42,6 +42,7 @@ Table of contents:
 * [angular-ui/ui-mask](https://github.com/angular-ui/ui-mask) - Mask on an input field so the user can only type pre-determined pattern.
 * [melloc01/angular-input-stars](https://github.com/melloc01/angular-input-stars) - Create rating inputs easily.
 * [myplanet/angular-auto-focus](https://github.com/myplanet/angular-auto-focus) - Bullet-proof auto-focusing for Angular.
+* [mbenford/ngTagsInput](https://github.com/mbenford/ngTagsInput) - Tags input directive for AngularJS.
 
 ###### File Upload
 * [danialfarid/ng-file-upload](https://github.com/danialfarid/ng-file-upload) - Lightweight Angular directive to upload files with optional FileAPI shim for cross browser support.
