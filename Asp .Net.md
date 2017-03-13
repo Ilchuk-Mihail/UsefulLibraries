@@ -11,6 +11,8 @@ Table of contents:
 - [SMS and Phone calls](#sms-and-phone-calls)
 - [Profiler](#profiler)
 - [Template Engine](#template-engine)
+- [Payments](#payments)
+- [Tools](#tools)
 - [Code Snippets](#code-snippets)
 - [Visual Studio Plugins](#visual-studio-plugins)
 
@@ -46,6 +48,12 @@ Table of contents:
 
 ## Template Engine
 - [Antaris/RazorEngine](https://github.com/Antaris/RazorEngine) - Open source templating engine based on Microsoft's Razor parsing engine.
+
+## Payments
+- [braintree/braintree_dotnet](https://github.com/braintree/braintree_dotnet) - The Braintree assembly provides integration access to the Braintree Gateway.
+
+## Tools
+- [Fiddler](http://www.telerik.com/fiddler) - The free web debugging proxy for any browser, system or platform.
 
 ## Code Snippets
 - [.NET Fiddle](https://dotnetfiddle.net) - Write, compile and run C# code in the browser. The C# equivalent of JSFiddle.
