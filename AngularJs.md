@@ -53,7 +53,7 @@ Table of contents:
 ###### Routing
 * [angular-ui/ui-router](https://github.com/angular-ui/ui-router) - The de-facto solution to flexible routing with nested views in AngularJS.
 
-## Performance
+# Performance
 
 ###### Lazy Load
  - [ocombe/ocLazyLoad](https://github.com/ocombe/ocLazyLoad) - Lazy load modules & components in AngularJS.
