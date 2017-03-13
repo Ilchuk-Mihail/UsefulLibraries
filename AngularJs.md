@@ -7,14 +7,15 @@ Table of contents:
     - [Infinite Scroll](#infinite-scroll)
     - [Time](#time)
     - [Date Picker](#date-picker)
+    - [Mask](#mask)
     - [File Upload](#file-upload)
     - [Miscellaneous](#miscellaneous)
 - [Utilities](#utilities)
     - [Persistence](#persistence)
     - [Routing](#routing)
-* [Asset Manager](#asset-manager)
-* [Storage](#storage)
-* [Directive](#directive)
+- [Asset Manager](#asset-manager)
+- [Storage](#storage)
+- [Directive](#directive)
 - [Performance](#performance)
     - [Lazy Load](#lazy-load)
 
@@ -38,6 +39,9 @@ Table of contents:
 *Time Picker / Datetime Picker*
 
 * [angular-ui/bootstrap](https://github.com/angular-ui/bootstrap) - Native AngularJS (Angular) directives for Bootstrap. Smaller footprint (20kB gzipped), no 3rd party JS dependencies (jQuery, bootstrap JS) required. [Demo](https://angular-ui.github.io/bootstrap/#!#datepicker) 
+
+###### Mask
+* [angular-ui/ui-mask](https://github.com/angular-ui/ui-mask) - Mask on an input field so the user can only type pre-determined pattern.
 
 ###### File Upload
 * [danialfarid/ng-file-upload](https://github.com/danialfarid/ng-file-upload) - Lightweight Angular directive to upload files with optional FileAPI shim for cross browser support.
