@@ -6,8 +6,8 @@ Table of contents:
     - [Notification](#notification)
     - [Infinite Scroll](#infinite-scroll)
     - [Time](#time)
-    - [Date Picker](#date-picker)
-    - [Mask](#mask)
+    - [Date / Time Picker](#date--time-picker)
+    - [Form Input](#form-input)
     - [File Upload](#file-upload)
     - [Miscellaneous](#miscellaneous)
 - [Utilities](#utilities)
@@ -34,14 +34,12 @@ Table of contents:
 ###### Time
 * [urish/angular-moment](https://github.com/urish/angular-moment) - AngularJS directive and filters for [Moment.js](https://momentjs.com/).
 
-###### Date Picker
-
-*Time Picker / Datetime Picker*
-
+###### Date/Time Picker
 * [angular-ui/bootstrap](https://github.com/angular-ui/bootstrap) - Native AngularJS (Angular) directives for Bootstrap. Smaller footprint (20kB gzipped), no 3rd party JS dependencies (jQuery, bootstrap JS) required. [Demo](https://angular-ui.github.io/bootstrap/#!#datepicker) 
 
-###### Mask
+###### Form Input
 * [angular-ui/ui-mask](https://github.com/angular-ui/ui-mask) - Mask on an input field so the user can only type pre-determined pattern.
+* [melloc01/angular-input-stars](https://github.com/melloc01/angular-input-stars) - Create rating inputs easily.
 
 ###### File Upload
 * [danialfarid/ng-file-upload](https://github.com/danialfarid/ng-file-upload) - Lightweight Angular directive to upload files with optional FileAPI shim for cross browser support.
@@ -60,4 +58,4 @@ Table of contents:
 # Performance
 
 ###### Lazy Load
- - [ocombe/ocLazyLoad](https://github.com/ocombe/ocLazyLoad) - Lazy load modules & components in AngularJS.
+* [ocombe/ocLazyLoad](https://github.com/ocombe/ocLazyLoad) - Lazy load modules & components in AngularJS.
