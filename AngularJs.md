@@ -34,7 +34,7 @@ Table of contents:
 ###### Time
 * [urish/angular-moment](https://github.com/urish/angular-moment) - AngularJS directive and filters for [Moment.js](https://momentjs.com/).
 
-###### Date/Time Picker
+###### Date / Time Picker
 * [angular-ui/bootstrap](https://github.com/angular-ui/bootstrap) - Native AngularJS (Angular) directives for Bootstrap. Smaller footprint (20kB gzipped), no 3rd party JS dependencies (jQuery, bootstrap JS) required. [Demo](https://angular-ui.github.io/bootstrap/#!#datepicker) 
 
 ###### Form Input
